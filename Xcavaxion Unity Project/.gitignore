@@ -1,0 +1,8 @@
+# ignore unity Library directory
+Library/
+
+# ignore unity Temp directory
+Temp/
+
+# ignore all .userprefs files
+*.userprefs
